@@ -7,7 +7,7 @@ const Cart = () => {
   const { cart, total } = useContext(CartContext);
 
   if (cart.length === 0) {
-    return "No hay productos";
+    return <h2>No hay productos</h2>;
   } else {
     return (
       <div className="cartCount">
