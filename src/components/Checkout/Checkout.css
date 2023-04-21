@@ -1,0 +1,35 @@
+.container {
+  margin-top: 100px;
+  margin-left: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  background-color: #fff;
+}
+
+.formData {
+  background-color: var(--clr-gray);
+  font-size: 27px;
+  display: block;
+  text-align: center;
+}
+
+.formDataNew {
+  display: grid;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+  border-radius: 5%;
+  margin-top: 1%;
+}
+
+.buttonConfirm {
+  background-color: var(--clr-main-light);
+  color: var(--clr-main);
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 5px;
+  margin-left: 50px;
+  margin-top: 20px;
+}

@@ -1,0 +1,44 @@
+.cartCount {
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.cartCount h1 {
+  margin-top: 30px;
+  font-size: 25px;
+  color: var(--clr-main);
+  text-decoration: none;
+  text-align: center;
+}
+
+.cartCount .button {
+  background-color: var(--clr-main-light);
+  color: var(--clr-main);
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 5px;
+  margin-left: 46%;
+}
+
+.cartCount .total {
+  font-size: 30px;
+  color: var(--clr-main);
+  text-decoration: none;
+  text-align: center;
+}
+
+.cart {
+  width: auto;
+  height: auto;
+  background-color: var(--clr-white);
+  width: 70%;
+  margin: 0 auto;
+}
+
+.cartDetail {
+  font-size: 40px;
+  color: var(--clr-main);
+  text-decoration: none;
+  text-align: center;
+}

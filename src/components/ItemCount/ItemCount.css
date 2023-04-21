@@ -1,0 +1,36 @@
+.Counter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  margin: auto;
+}
+
+.Button {
+  text-decoration: none;
+  margin: 0 50px;
+  width: auto;
+  padding: 5px;
+  font-size: 5px;
+  background: var(--clr-main-light);
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  text-decoration: none;
+  color: #000;
+  cursor: pointer;
+  outline: inherit;
+  font-size: 20px;
+}
+
+.Number {
+  font-size: 30px;
+  margin: 0;
+  order: 1;
+}
+
+.Controls {
+  display: flex;
+  justify-content: center;
+}

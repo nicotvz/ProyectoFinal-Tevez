@@ -1,0 +1,30 @@
+header {
+  background-color: var(--clr-gray);
+  top: 0;
+  z-index: 1;
+  padding: 1vw 4vw 1vw 4vw;
+  box-shadow: 0px 0px 20px -7px #000;
+}
+
+.NavBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 300px;
+}
+
+.Categories {
+  display: inline-flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding-right: 430px;
+  align-items: center;
+}
+
+.Option {
+  margin: 0 0 0 1.5rem;
+}
+
+.ActiveOption {
+  font-weight: bold;
+}
