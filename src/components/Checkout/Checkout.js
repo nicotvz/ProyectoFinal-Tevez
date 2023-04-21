@@ -40,7 +40,7 @@ const Checkout = () => {
           .then((item) => {
             Swal.fire(
               "Compra finalizada",
-              `¡Muchas gracias por su compra, su orden es ${item.id}!`,
+              `Su número de orden es ${item.id}. Gracias por tu compra!`,
               "success"
             );
             clearCart();
