@@ -1,9 +1,6 @@
+# NGaming
+
 ![Navigation](https://user-images.githubusercontent.com/112536613/233679173-c10e69c8-c771-47fb-87fc-e742935d9973.gif)
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
