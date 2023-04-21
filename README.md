@@ -4,8 +4,9 @@
 
 ## Ejecutar localmente
 
+```
 $ git clone https://github.com/nicotvz/ProyectoFinal-Tevez.git
 $ cd ngaming
 $ npm install
 $ npm start
-
+```
