@@ -1,4 +1,4 @@
-![](proyectoreact.gif)
+![Navigation](https://user-images.githubusercontent.com/112536613/233677334-8ca742da-b0f7-4fea-865d-2a27de30d9d1.gif)
 
 
 # Getting Started with Create React App
