@@ -22,8 +22,9 @@ Correr el proyecto en el navegador
 ```
 $ npm start
 ```
+____________________________________________
 
-#### Tecnologías usadas
+### Tecnologías usadas
 * React
 * Javascript
 * Css
@@ -32,7 +33,8 @@ $ npm start
 * react-router-dom
 * firebase
 
-#### Variables de entorno
+
+### Variables de entorno
 ```
 REACT_APP_apiKey=
 REACT_APP_authDomain=
